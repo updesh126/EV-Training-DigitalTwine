@@ -1,11 +1,8 @@
 # Manufacturing
-Project Demo Apk [Click Here](https://github.com/updesh126/Manufacturing/releases/tag/0.0.1v)
+Project Demo Apk [Click Here]()
 # Team Universal
 ## Members
-- Updesh Pr Singh (Team Leader)
-- Tanu Soni
-- Vanshika Agrawal
-- Gyan Ratan
+- Updesh Pr Singh
 
 - 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
 #
