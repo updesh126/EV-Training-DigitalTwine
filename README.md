@@ -2,15 +2,15 @@
 Project Demo Apk [Click Here]()
 # Team Universal
 ## Members
-- Updesh Pr Singh
+- Updesh Pr Singh 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
+- Wilson Danial 📫 wilson2020csai109@abesit.edu.in
 
-- 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
+
 #
 #
-#Need to Know
-For using this code you need to install following packagee:
-- [GVR SDK](https://github.com/googlevr/gvr-unity-sdk/releases)
-- [Low Poly Nature collection](https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153)
-- [3D Free Modular Kit](https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732)
-- For complete code [click here](https://drive.google.com/drive/folders/1HHfjVsKoDJRPRjVetzxMUnduNuX-gQ__)
+# Technology stack
+- Unity 3D Game Engine
+- Blender
+- Steam VR
+- Sketchfab
 #
