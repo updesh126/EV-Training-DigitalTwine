@@ -616,7 +616,7 @@ MonoBehaviour:
   actionSet:
     actionSetPath: /actions/default
   forSources: 0
-  disableAllOtherActionSets: 0
+  disableAllOtherActionSets: 1
   activateOnStart: 1
   deactivateOnDestroy: 1
   initialPriority: 0

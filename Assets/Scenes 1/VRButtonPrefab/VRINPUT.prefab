@@ -59,3 +59,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 413ff8a20a406f44c9efe0a6669e518a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Camera: {fileID: 0}
+  m_TargetSource: 2
+  m_ClickAction:
+    actionPath: /actions/default/in/InteractUI
+    needsReinit: 0
